@@ -2,6 +2,7 @@
 
 ## 팀원
 
-| GitHub | 맡은 일 |
-|---|---|
-|@WooYoungCheon1|화면 구성|
+| GitHub          | 맡은 일   |
+| --------------- | --------- |
+| @WooYoungCheon1 | 화면 구성 |
+| @cjs1004ounds   | 서버      |
